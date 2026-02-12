@@ -6,3 +6,6 @@ Harrie Santosa Yusuf
 - Dark mode toggle
 - Responsive design
 - Clean UI
+- Interactive dark mode
+- Modern UI design
+- Fast loading
